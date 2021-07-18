@@ -1,0 +1,22 @@
+MCTS_Vanilla (1): 1000 nodes
+MCTS_Modified (2): 1000 nodes
+Result (0: 0, 1: 45, 2: 55)
+45% winrate for MCTS_Vanilla
+55% winrate for MCTS_Modified
+
+MCTS_Vanilla (1): 100 nodes
+MCTS_Modified (2): 100 nodes
+Result (0: 0, 1: 53, 2: 47)
+53% winrate for MCTS_Vanilla
+47% winrate for MCTS_Modified
+
+MCTS_Vanilla (1): 10 nodes
+MCTS_Modified (2): 10 nodes
+Result (0: 10, 1: 45, 2: 45)
+49% winrate for MCTS_Vanilla
+45% winrate for MCTS_Modified
+
+I was not able to turn MCTS_Modified's rollout into an actual rollout since the code took too long to run. 
+I was not able to identify the issue so instead I tried to modify the traverse. 
+I managed to make it have a slight edge over MCTS_Vanilla when 100 nodes or more, but at around 100 nodes Vanilla still wins.
+At 10 nodes however, the bots seem to be roughly even against each other.

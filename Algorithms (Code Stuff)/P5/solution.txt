@@ -1,0 +1,186 @@
+Extra_Credit:
+Our bot can find a goal of 1 furnace_minecart, 20 powered_rail, and 50 rail.
+It takes the bot 25 seconds, with a depth of 176, and 430 in game time.
+We decided that the algorithm should make a second furnace for the furnace_minecart,
+rather than consume the already existing furnace since tools should not be consumed.
+
+punch for wood
+punch for wood
+craft plank
+craft stick
+craft plank
+punch for wood
+craft plank
+craft bench
+craft wooden_pickaxe at bench
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+punch for wood
+craft plank
+craft stick
+craft stone_pickaxe at bench
+stone_pickaxe for ore
+stone_pickaxe for ore
+stone_pickaxe for ore
+wooden_pickaxe for coal
+wooden_pickaxe for coal
+wooden_pickaxe for coal
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+craft furnace at bench
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+punch for wood
+craft plank
+craft stick
+craft iron_pickaxe at bench
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for ore
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for cobble
+iron_pickaxe for cobble
+iron_pickaxe for cobble
+iron_pickaxe for cobble
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for cobble
+iron_pickaxe for coal
+iron_pickaxe for cobble
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for cobble
+iron_pickaxe for coal
+iron_pickaxe for cobble
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+iron_pickaxe for coal
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+craft cart at bench
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+craft rail at bench
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+craft rail at bench
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+craft rail at bench
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+craft stick
+craft rail at bench
+iron_pickaxe for redstone
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+craft powered_rail at bench
+iron_pickaxe for redstone
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+craft powered_rail at bench
+iron_pickaxe for redstone
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+craft powered_rail at bench
+iron_pickaxe for redstone
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+iron_pickaxe for gold
+punch for wood
+craft plank
+craft stick
+craft powered_rail at bench
+craft furnace at bench
+craft furnace_minecart at bench
+
+Cost:  430
+Time:  24.8574448
+Length:  176

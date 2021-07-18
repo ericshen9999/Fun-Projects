@@ -1,0 +1,27 @@
+Bot 1: 100 nodes
+Bot 2: 1000 nodes
+Result (0: 0, 1: 9, 2: 91)
+9% winrate for Bot1
+91% winrate for Bot2
+
+Bot 1: 100 nodes
+Bot 2: 500 nodes
+Result (0: 1, 1: 16, 2: 84)
+1% drawrate
+16% winrate for Bot1
+84% winrate for Bot2
+
+Bot 1: 100 nodes
+Bot 2: 200 nodes
+Result (0: 0, 1: 38, 2: 62)
+38% winrate for Bot1
+62% winrate for Bot
+
+Bot 1: 100 nodes
+Bot 2: 10 nodes
+Result (0: 2, 1: 91,2: 7)
+2% drawrate
+91% winrate for Bot1
+7% winrate for Bot2
+
+As the amount of nodes increase for bot 2, the winrate drastically increases. The amount it rises seems to be on an logarithmic curve that flattens around 90% but theoretically 100%.
